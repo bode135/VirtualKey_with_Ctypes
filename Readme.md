@@ -3,6 +3,6 @@
 # 驱动级按键模拟。
 ## 基于ctypes实现。
 
-> Compared to the [`Pydamo`](https://github.com/bode135/pydamo "jump to the pydamo project") scheme, the CTypes scheme does not support background emulation, but supports 64-bit Python.
+> Compared to the [`Pydamo`](https://github.com/bode135/pydamo "jump to the pydamo project") scheme(I don't know how to do this with ctypes), the CTypes scheme does not support background emulation, but supports 64-bit Python.
 
-> ctypes方案对比[`pydamo`](https://github.com/bode135/pydamo "jump to the pydamo project")方案，不支持后台模拟，但支持64位python。
+> ctypes方案对比[`pydamo`](https://github.com/bode135/pydamo "jump to the pydamo project")方案(我不知道怎么用ctypes做后台)，不支持后台模拟，但支持64位python。
