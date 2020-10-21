@@ -3,6 +3,15 @@
 # 驱动级按键模拟。
 ## 基于ctypes实现。
 
+----------------------------------------------------------
+10.21日更新:
+# 安装:
+```
+pip install VirtualKey
+```
+[使用说明【instruction】](https://zhuanlan.zhihu.com/p/266522358)
+---------------------------------------------------------------
+
 [案例【example】](https://github.com/bode135/VirtualKey_with_Ctypes/blob/master/example.py)
 
 > Compared to the [`Pydamo`](https://github.com/bode135/pydamo "jump to the pydamo project") scheme(I don't know how to do this with ctypes), the CTypes scheme does not support background emulation, but supports 64-bit Python.
