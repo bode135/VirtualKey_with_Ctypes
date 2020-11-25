@@ -11,7 +11,6 @@ pip install VirtualKey
 ```
 [使用说明【instruction】](https://zhuanlan.zhihu.com/p/266522358 "跳转到知乎")
 
-<br>11.24日测试被LOL屏蔽...(不嫌麻烦可以再试一下.我这用的是pydamo了.)
 ---------------------------------------------------------------
 
 [案例【example】](https://github.com/bode135/VirtualKey_with_Ctypes/blob/master/example.py)
